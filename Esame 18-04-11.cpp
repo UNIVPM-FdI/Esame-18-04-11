@@ -33,7 +33,7 @@ switch(s){
     break;
     }
     case 'b':{
-        cout<<"le parole più lunghe sono"<<endl;
+        cout<<"le parole piÃ¹ lunghe sono"<<endl;
         cercaparola(file);
     break;
     }
@@ -170,3 +170,5 @@ cont--;
 }
 input2.close();
 }
+
+//Coded by DarkCerfa
